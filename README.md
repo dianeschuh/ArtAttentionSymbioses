@@ -3,7 +3,7 @@ Please refer to the attached score for the performance.
 This device is based on a reinjection matrix, with feedback cascades. 
 It is therefore essential to work with someone at the mixing console, 
 or to add an audio limiter. Set up for 2d ambisonics, 12 channels
-(If you want to play the set-up with the added video please ask the author : Tania Cortés Becerra https://www.taniacortesbecerra.com/)
+(If you want to play the set-up with the added video please ask the author of the video : Tania Cortés Becerra https://www.taniacortesbecerra.com/)
 
 Program notes:
 
