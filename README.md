@@ -2,7 +2,8 @@ L'Art de L'Attention, Symbioses is an improvisation device for saxophone and ele
 Please refer to the attached score for the performance. 
 This device is based on a reinjection matrix, with feedback cascades. 
 It is therefore essential to work with someone at the mixing console, 
-or to add an audio limiter. Set up for 2d ambisonics, 12 channels
+or to add an audio limiter. Set up for 2d ambisonics, 12 channels.
+This Max patch has a presentation mode that can be set-up as a video stage monitor for time synchronisation with the instrumentist.
 (If you want to play the set-up with the added video please ask the author of the video : Tania Cortés Becerra https://www.taniacortesbecerra.com/)
 
 Program notes:
